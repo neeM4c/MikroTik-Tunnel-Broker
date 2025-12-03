@@ -18,8 +18,6 @@ Automated script to deploy MikroTik CHR on Ubuntu (alongside Hiddify, Marzban, e
 
 Run this command on your VPS:
 
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/neeM4c/MikroTik-Tunnel-Broker/main/install.sh)
 
 این دستور چه کار می‌کند؟
 اسکریپت را مستقیم از گیت‌هاب  می‌خواند.
@@ -30,4 +28,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/neeM4c/MikroTik-Tunnel-Broke
 
 فقط آی‌پی ثابت منزل را از تون می‌پرسد.
 
-و در آخر، کدهای آماده برای وینباکس سرور و وینباکس خانه را به تو تحویل می‌دهد.
+و در آخر، کدهای آماده برای وینباکس سرور و وینباکس خانه را برای وارد کردن در ترمینال وینباکس تحویل می‌دهد.
+
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/neeM4c/MikroTik-Tunnel-Broker/main/install.sh)
