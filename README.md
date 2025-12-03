@@ -19,4 +19,4 @@ Automated script to deploy MikroTik CHR on Ubuntu (alongside Hiddify, Marzban, e
 Run this command on your VPS:
 
 ```bash
-bash <(curl -fsSL [https://raw.githubusercontent.com/YOUR_USERNAME/MikroTik-Tunnel-Broker/main/install.sh](https://raw.githubusercontent.com/YOUR_USERNAME/MikroTik-Tunnel-Broker/main/install.sh))
+bash <(curl -fsSL https://raw.githubusercontent.com/neeM4c/MikroTik-Tunnel-Broker/main/install.sh)
